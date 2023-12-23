@@ -22,7 +22,7 @@ Clonage du projet :
 
 bash
 Copy code
-git clone https://github.com/VotreNom/SOA_SOUPUI.git
+git clone https://github.com/mohamed-jilani/SOUP-Service-PHP-Client.git
 Configuration : Assurez-vous d'avoir activé l'extension SOAP pour PHP et ajustez les URL du service web dans les clients PHP et JavaScript selon votre configuration.
 
 Exécution : Exécutez le serveur Java, puis exécutez les clients PHP et JavaScript pour tester les fonctionnalités du service web.
